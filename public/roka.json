@@ -14,7 +14,7 @@
         "autoRotateSpeed": 2.0
     },
     "renderer": {
-        "toneMapping": "Netural",
+        "toneMapping": "Neutral",
         "toneMappingExposure": 1.75,
         "alpha": false,
         "background": "#222222"
