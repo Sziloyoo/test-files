@@ -12,7 +12,7 @@
         "canRotate": true,
         "sensitivity": 0.5,
         "orbitHorizontal": { "x": 180, "y": 180 },
-        "orbitVertical": { "x": 30, "y": 120 },
+        "orbitVertical": { "x": 30, "y": 100 },
         "autoRotate": false,
         "autoRotateSpeed": 2.0
     },
@@ -33,8 +33,8 @@
         "animationSpeed": 1.0
     },
 	"text": {
-        "fontColor": "#c3b883",
-        "fontSize": 0.1,
+        "fontColor": "#ffffff",
+        "fontSize": 0.5,
         "fontBold": true,
         "fontStroke": true,
         "lineColor": "#ffffff",
